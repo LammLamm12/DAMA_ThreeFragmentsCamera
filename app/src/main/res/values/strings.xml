@@ -2,7 +2,7 @@
     <string name="app_name">DAMA_FragmentsTwo</string>
     <string name="fragment1">Camera</string>
     <string name="fragment2">Write photos to \'disk\'…</string>
-    <string name="fragment3">Camera and Gallery</string>
+    <string name="fragment3">On App Camera</string>
     <string name="take_photo">Take photo</string>
     <string name="camera_image">Camera Image</string>
 </resources>

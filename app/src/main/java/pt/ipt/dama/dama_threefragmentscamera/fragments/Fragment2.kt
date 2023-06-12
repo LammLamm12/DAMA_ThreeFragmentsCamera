@@ -38,10 +38,10 @@ class Fragment2 : Fragment() {
         return inflater.inflate(R.layout.fragment2, container, false)
     }
 
+    // needs to have different names or will crash
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        // Use the button reference to set listeners, change properties, etc.
         frame = view.findViewById(R.id.fragment2frame)
 
         // check if you can use the camera and write the image to storage
