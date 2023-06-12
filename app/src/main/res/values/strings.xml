@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DAMA_FragmentsTwo</string>
+    <string name="fragment_1">Camera</string>
+    <string name="fragment_2">Gallery</string>
+    <string name="fragment_3">Camera and Gallery</string>
+    <string name="take_photo">Take photo</string>
+    <string name="camera_image">Camera Image</string>
+</resources>
